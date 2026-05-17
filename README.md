@@ -13,5 +13,9 @@ and active vs banned accounts.
 ## Tools Used
 - Python, pandas, matplotlib, seaborn
 
+## Key Findings So Far
+- Claim videos receive ~100x more views than opinion videos on average
+  (501,029 vs 4,956), suggesting significantly higher spread on the platform
+
 ## Status
 🚧 Work in progress
