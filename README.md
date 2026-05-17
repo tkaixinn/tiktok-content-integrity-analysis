@@ -16,6 +16,6 @@ and active vs banned accounts.
 ## Key Findings So Far
 - Claim videos receive ~100x more views than opinion videos on average
   (501,029 vs 4,956), suggesting significantly higher spread on the platform
-
-## Status
-🚧 Work in progress
+- Counterintuitively, unverified authors outperform verified authors in average
+  views (265,663 vs 91,439), likely driven by banned or flagged accounts
+  inflating the unverified group's numbers
