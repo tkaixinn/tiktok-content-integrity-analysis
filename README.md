@@ -22,3 +22,7 @@ and active vs banned accounts.
 - Banned accounts generated more than double the average views of active accounts
   (445,845 vs 215,927), suggesting engagement velocity may be an early signal
   for accounts that violate platform policies
+- Content type is the dominant factor driving viewership volume. Claim videos attract ~500,000 views regardless of whether the content came from an author that is active, under review, or banned
+
+## Status
+Work in progress
