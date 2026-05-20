@@ -13,16 +13,27 @@ and active vs banned accounts.
 ## Tools Used
 - Python, pandas, matplotlib, seaborn
 
-## Key Findings So Far
-- Claim videos receive ~100x more views than opinion videos on average
-  (501,029 vs 4,956), suggesting significantly higher spread on the platform
-- Counterintuitively, unverified authors outperform verified authors in average
-  views (265,663 vs 91,439), likely driven by banned or flagged accounts
-  inflating the unverified group's numbers
-- Banned accounts generated more than double the average views of active accounts
-  (445,845 vs 215,927), suggesting engagement velocity may be an early signal
-  for accounts that violate platform policies
-- Content type is the dominant factor driving viewership volume. Claim videos attract ~500,000 views regardless of whether the content came from an author that is active, under review, or banned
+## Questions Explored
+1. Do claim videos or opinion videos get more engagement?
+2. Does author verification status affect how far videos spread?
+3. Do banned accounts show different engagement patterns?
+4. Which combination of author status and content type drives the most engagement?
+5. Is engagement concentrated among a small number of videos?
+
+## Key Findings
+1. Claim videos receive ~100x more views than opinion videos on average
+   (501,029 vs 4,956)
+2. Counterintuitively, unverified authors outperform verified authors in average
+   views (265,663 vs 91,439), likely driven by banned or flagged accounts
+   inflating the unverified group's numbers
+3. Banned accounts generated more than double the average views of active accounts
+   (445,845 vs 215,927), suggesting engagement velocity may be an early signal
+   for accounts that violate platform policies
+4. Banned accounts posting claim videos drive the highest average views (505,907).
+   However, claim videos attract ~500,000 views across all account states, suggesting
+   content type matters more than author ban status in driving viewership volume
+5. View distribution is highly concentrated. The top 20% of videos account for
+   63.24% of all views, while the bottom 50% account for less than 1%
 
 ## Status
-Work in progress
+Nearly complete -- final summary in progress
