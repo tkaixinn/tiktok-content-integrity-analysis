@@ -7,7 +7,7 @@ and active vs banned accounts.
 
 ## Dataset
 - Source: [TikTok User Engagement Data](https://www.kaggle.com/datasets/yakhyojon/tiktok)
-- 19,382 rows, 12 columns
+- 19,382 rows (19,084 clean rows), 12 columns
 - Each row represents a published TikTok video
 
 ## Tools Used
@@ -34,6 +34,3 @@ and active vs banned accounts.
    content type matters more than author ban status in driving viewership volume
 5. View distribution is highly concentrated. The top 20% of videos account for
    63.24% of all views, while the bottom 50% account for less than 1%
-
-## Status
-Nearly complete -- final summary in progress
