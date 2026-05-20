@@ -19,3 +19,6 @@ and active vs banned accounts.
 - Counterintuitively, unverified authors outperform verified authors in average
   views (265,663 vs 91,439), likely driven by banned or flagged accounts
   inflating the unverified group's numbers
+- Banned accounts generated more than double the average views of active accounts
+  (445,845 vs 215,927), suggesting engagement velocity may be an early signal
+  for accounts that violate platform policies
