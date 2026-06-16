@@ -5,6 +5,7 @@ Exploratory data analysis of TikTok videos to understand engagement patterns
 across claim vs opinion content, verified vs unverified authors,
 and active vs banned accounts.
 
+This is Part 1 of a two-part data analytics portfolio. [Part 2](https://github.com/tkaixinn/tiktok-user-retention-analysis) explores customer retention and user behaviour.
 ## Links
 - Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/tkaixinn/viz/TikTok_Content_Integrity_Analysis/TikTokContentIntegrityDashboard)
 
